@@ -1,0 +1,110 @@
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Library.UnitTests.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Library.UnitTests.pdb
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Library.exe
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Library.pdb
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Library.exe.config
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.AssemblyReference.cache
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CopyComplete
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\obj\Debug\Library.UnitTests.dll
+C:\Users\coolb\source\repos\ConsoleApp29\Library.UnitTests\obj\Debug\Library.UnitTests.pdb
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.pdb
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Library.exe
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Library.pdb
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Library.exe.config
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.AssemblyReference.cache
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CopyComplete
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.dll
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.pdb
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.dll
+E:\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.pdb
+E:\code tests lior\Library.UnitTests\bin\Debug\Library.exe
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\code tests lior\Library.UnitTests\bin\Debug\Library.pdb
+E:\code tests lior\Library.UnitTests\bin\Debug\Library.exe.config
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.AssemblyReference.cache
+E:\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CoreCompileInputs.cache
+E:\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CopyComplete
+E:\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.dll
+E:\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.pdb
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\nunit.engine.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\nunit.engine.api.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\nunit.engine.core.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\testData\LibraryTests.xml
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.pdb
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Library.exe
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Library.pdb
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Library.exe.config
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.AssemblyReference.cache
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CopyComplete
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.dll
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.pdb
+C:\Users\coolb\Desktop\code tests lior\Library.UnitTests\bin\Debug\LibraryAccountTests.cs
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\nunit.engine.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\nunit.engine.api.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\nunit.engine.core.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\testData\LibraryTests.xml
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\LibraryAccountTests.cs
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Library.UnitTests.pdb
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Library.exe
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Library.pdb
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Library.exe.config
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.AssemblyReference.cache
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.csproj.CopyComplete
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.dll
+C:\Users\coolb\source\repos\code tests lior\Library.UnitTests\obj\Debug\Library.UnitTests.pdb

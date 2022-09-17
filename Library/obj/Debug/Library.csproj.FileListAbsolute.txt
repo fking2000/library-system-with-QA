@@ -1,0 +1,40 @@
+C:\Users\coolb\source\repos\ConsoleApp29\Library\bin\Debug\Library.exe.config
+C:\Users\coolb\source\repos\ConsoleApp29\Library\bin\Debug\Library.exe
+C:\Users\coolb\source\repos\ConsoleApp29\Library\bin\Debug\Library.pdb
+C:\Users\coolb\source\repos\ConsoleApp29\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\coolb\source\repos\ConsoleApp29\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolb\source\repos\ConsoleApp29\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\coolb\source\repos\ConsoleApp29\Library\obj\Debug\Library.exe
+C:\Users\coolb\source\repos\ConsoleApp29\Library\obj\Debug\Library.pdb
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\bin\Debug\Library.exe.config
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\bin\Debug\Library.exe
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\bin\Debug\Library.pdb
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\obj\Debug\Library.exe
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\obj\Debug\Library.pdb
+C:\Users\coolb\Downloads\code tests lior\code tests lior\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+E:\code tests lior\Library\bin\Debug\Library.exe.config
+E:\code tests lior\Library\bin\Debug\Library.exe
+E:\code tests lior\Library\bin\Debug\Library.pdb
+E:\code tests lior\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\code tests lior\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+E:\code tests lior\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\code tests lior\Library\obj\Debug\Library.exe
+E:\code tests lior\Library\obj\Debug\Library.pdb
+C:\Users\coolb\Desktop\code tests lior\Library\bin\Debug\Library.exe.config
+C:\Users\coolb\Desktop\code tests lior\Library\bin\Debug\Library.exe
+C:\Users\coolb\Desktop\code tests lior\Library\bin\Debug\Library.pdb
+C:\Users\coolb\Desktop\code tests lior\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\coolb\Desktop\code tests lior\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolb\Desktop\code tests lior\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\coolb\Desktop\code tests lior\Library\obj\Debug\Library.exe
+C:\Users\coolb\Desktop\code tests lior\Library\obj\Debug\Library.pdb
+C:\Users\coolb\source\repos\code tests lior\Library\bin\Debug\Library.exe.config
+C:\Users\coolb\source\repos\code tests lior\Library\bin\Debug\Library.exe
+C:\Users\coolb\source\repos\code tests lior\Library\bin\Debug\Library.pdb
+C:\Users\coolb\source\repos\code tests lior\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\coolb\source\repos\code tests lior\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolb\source\repos\code tests lior\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\coolb\source\repos\code tests lior\Library\obj\Debug\Library.exe
+C:\Users\coolb\source\repos\code tests lior\Library\obj\Debug\Library.pdb

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tests>
+	<Test>
+		<fn>adult</fn>
+		<ln>big</ln>
+		<type>Adult</type>
+		<btype>AdultBook</btype>
+		<status>InTheLibrary</status>
+	</Test>
+	
+	<Test>
+		<fn>adult1</fn>
+		<ln>big</ln>
+		<type>Adult</type>
+		<btype>ChildrenBook</btype>
+		<status>InTheLibrary</status>
+	</Test>
+	
+	<Test>
+		<fn>child</fn>
+		<ln>small</ln>
+		<type>Child</type>
+		<btype>AdultBook</btype>
+		<status>InTheLibrary</status>
+	</Test>
+	
+	<Test>
+		<fn>child1</fn>
+		<ln>small</ln>
+		<type>Child</type>
+		<btype>ChildrenBook</btype>
+		<status>InTheLibrary</status>
+	</Test>
+	<Test>
+		<fn>child1</fn>
+		<ln>small</ln>
+		<type>Child</type>
+		<btype>ChildrenBook</btype>
+		<status>InTheLibrary</status>
+		<expected>true</expected>
+	</Test>
+	
+	<Test1>
+		<fn>adult</fn>
+		<ln>big</ln>
+		<type>Adult</type>
+		<btype>AdultBook</btype>
+		<status>InTheLibrary</status>
+		<debt>0</debt>
+	</Test1>
+	
+	<Test1>
+		<fn>adult1</fn>
+		<ln>big</ln>
+		<type>Adult</type>
+		<btype>ChildrenBook</btype>
+		<status>Reserved</status>
+		<debt>0</debt>
+	</Test1>
+	
+	<Test1>
+		<fn>child</fn>
+		<ln>small</ln>
+		<type>Child</type>
+		<btype>ChildrenBook</btype>
+		<status>OutOfTheLibraryAndReserved</status>
+		<debt>0</debt>
+	</Test1>
+	
+	<Test1>
+		<fn>child1</fn>
+		<ln>small</ln>
+		<type>Child</type>
+		<btype>ChildrenBook</btype>
+		<status>InTheLibrary</status>
+		<debt>10</debt>
+	</Test1>
+
+
+</Tests>
